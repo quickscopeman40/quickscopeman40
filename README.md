@@ -35,7 +35,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./emoji.png">
   <source media="(prefers-color-scheme: light)" srcset="./emoji.png">
-  <img align="left" alt="GIF description" src="./emoji.png">
+  <img align="left" alt="Emoji" src="./emoji.png" width="20"> 
 </picture>
 <br />
 
@@ -88,4 +88,3 @@
 
 
 <!--Buy me a coffee-->
-
