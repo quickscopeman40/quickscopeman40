@@ -31,7 +31,7 @@
 
 
 <!--Languages and Tools Section-->       
-<h2 align="center" style="color: #5032c7;">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<h2 align="center" style="color: #5032c7;">LATEST & INFORMATIOn</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./emoji.png">
   <source media="(prefers-color-scheme: light)" srcset="./emoji.png">
