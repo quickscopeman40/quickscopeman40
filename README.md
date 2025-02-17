@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://pic.funnygifsbox.com/uploads/2022/12/funnygifsbox.com-2022-12-13-09-14-40-61.gif">
+  <img align="right" width="40%" src="https://imgur.com/a/3mEiFgh">
 </div>
 
 <!--Header Name-->
