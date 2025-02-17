@@ -31,7 +31,6 @@
 
 
 <!--Languages and Tools Section-->       
-<h2 align="center" style="color: #5032c7;">LATEST & INFORMATION</h2> 
 <img align="center" src="latestbanner.png" width="100%">
 <br />
 
