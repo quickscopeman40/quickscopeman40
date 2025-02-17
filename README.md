@@ -2,9 +2,9 @@
 ![quickscopeman40 Banner Image](./banner.png)
 
 <!--Night Owl image-->
-<div>
+
   <img align="right" width="40%" src="owl.png">
-</div>
+
 
 <!--Header Name-->
 # <img src="https://static.vecteezy.com/system/resources/previews/020/522/258/non_2x/cool-face-with-pixel-glasses-emoji-free-png.png" width="30"/> IM ANGEL!! ( quickscopeman40) 
