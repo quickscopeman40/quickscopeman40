@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://imgur.com/a/3mEiFgh">
+  <img align="right" width="40%" src="owl.png">
 </div>
 
 <!--Header Name-->
