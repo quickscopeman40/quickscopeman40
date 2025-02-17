@@ -31,12 +31,8 @@
 
 
 <!--Languages and Tools Section-->       
-<h2 align="center" style="color: #5032c7;">LATEST & INFORMATIOn</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./emoji.png">
-  <source media="(prefers-color-scheme: light)" srcset="./emoji.png">
-  <img align="left" alt="Emoji" src="./emoji.png" width="20"> 
-</picture>
+<h2 align="center" style="color: #5032c7;">LATEST & INFORMATION</h2> 
+<img align="center" src="latestbanner.png" width="100%">
 <br />
 
 <h3 align="left" style="color: #5032c7;">Current Learning</h3>
@@ -62,7 +58,7 @@
 ---
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
-<h2 align="center" style="color: #5032c7;">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<h2 align="center" style="color: #5032c7;">🌟 Thought of the day 🌟</h2>
 
 
 
