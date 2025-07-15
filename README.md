@@ -14,12 +14,12 @@
 <!--Start Intro-->               
 <p align="left">I Am a Full Stack Developer  </p>
 
-- ✨ Learned from youtube and google
-- 🌱 Learing every chance i get.
-- 💁‍♂️ Trusted Support Specialist at [Rapid Hosting LLC](https://rapidhosting.cloud)
-- 🏙 Owner and CEO of Angel Solutions [Coming soon](https://).
-- ❤ PHP Lover.
-- 💻 [Portfolio]() Coming Soon.
+- ✨ Learned from youtube!
+- 🌱 Learing every chance i get!
+- 💁‍♂️ Applying to fivem servers.
+- 🏙 Owner and CEO of Quickscope Scripts
+- ❤ PHP Lover
+- 💻 Fullstack
 <!--End Intro-->
 
 <!--Profile Count Badge-->
